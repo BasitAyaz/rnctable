@@ -1,0 +1,22 @@
+{
+  "name": "rnctable",
+  "version": "1.0.0",
+  "description": "it is the dynamic table for React Native Users.",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BasitAyaz/rnctable"
+  },
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "keywords": [
+    "rnc table",
+    "table"
+  ],
+  "author": "Basit Ahmed",
+  "license": "ISC"
+}
