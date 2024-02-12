@@ -1,4 +1,3 @@
-```markdown
 # rnctable
 
 ![rnctable Logo](https://your-image-url.com)
