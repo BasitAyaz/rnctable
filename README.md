@@ -1,6 +1,6 @@
 # rnctable
 
-![rnctable Logo]([https://mir-s3-cdn-cf.behance.net/project_modules/1400/4e781790059503.5e0d0ffd99e82.gif](https://miro.medium.com/v2/resize:fit:1400/1*4ZlAY6HN11n9RyU-lz7B_Q@2x.png))
+![rnctable Logo](https://miro.medium.com/v2/resize:fit:1400/1*4ZlAY6HN11n9RyU-lz7B_Q@2x.png)
 
 Lightweight and customizable React Native component for creating tables in your mobile applications.
 
