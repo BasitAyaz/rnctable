@@ -1,5 +1,3 @@
-Sure, here's the corrected and properly formatted Markdown file:
-
 ```markdown
 # rnctable
 
