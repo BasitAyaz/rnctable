@@ -1,6 +1,6 @@
 {
   "name": "rnctable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "it is the dynamic table for React Native Users.",
   "main": "index.tsx",
   "scripts": {
